@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jpb896!
 - 👀 I’m interested in app development and design
 - 🌱 I’m currently learning Kotlin, C# and Java
+- 🕓 Time zone: GMT/GMT+1
 
 <!---
 jpb896/jpb896 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
